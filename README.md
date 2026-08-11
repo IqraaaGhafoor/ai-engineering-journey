@@ -23,7 +23,7 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 
 | Day | Topic | Code |
 |-----|-------|------|
-| 01 | Variables and their types | [→](01_python/variable_types.ipynb) |
+| 01 | Variables and their types | [→](https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/01_python/variable_types.ipynb |
 
 ## Folders
 
