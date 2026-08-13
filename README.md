@@ -19,11 +19,11 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 **Also posting this on:** [Instagram](https://www.instagram.com/cybersec__ai) · [Twitter](https://x.com/Iqra_Ghafoor_)
 
 ## Progress
-## Progress
 
 | Day | Topic | Code |
 |-----|-------|------|
 | 01 | Variables and their types | [→](https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/01_python/variable_types.ipynb |
+| 02 |
 
 ## Folders
 
