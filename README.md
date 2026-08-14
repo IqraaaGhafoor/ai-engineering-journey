@@ -25,6 +25,8 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 | 01 | Variables and their types | [→](https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/01_python/variable_types.ipynb |
 | 02 |
 | 03 |
+| 04 |
+| 05 |
 
 ## Folders
 
