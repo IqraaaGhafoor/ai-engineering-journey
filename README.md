@@ -27,6 +27,9 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 | 03 |
 | 04 |
 | 05 |
+| 06 |
+| 07 |
+| 08 |
 
 ## Folders
 
