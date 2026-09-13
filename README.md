@@ -29,10 +29,9 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 
 ## Folders
 
-    01-python/       Syntax, data structures, OOP, file handling
-    02-math/         Linear algebra, calculus, probability & statistics
-    03-ml/           scikit-learn and the classic algorithms
-    04-dl/           Neural networks, PyTorch
-    05-nlp/          Natural language processing
-    06-genai-llm/    Generative AI and LLMs
+    01-python/       Syntax, data structures, OOP, file handling, numpy, pandas
+    02-ml/           scikit-learn and the classic algorithms
+    03-dl/           Neural networks, PyTorch
+    04-nlp/          Natural language processing
+    05-genai-llm/    Generative AI and LLMs
     ...              more coming
