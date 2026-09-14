@@ -16,7 +16,7 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 
 **Currently on:** Python
 
-**Also posting this on:** [Instagram](https://www.instagram.com/cybersec__ai) · [Twitter](https://x.com/Iqra_Ghafoor_)
+**Also posting this on:** [Instagram](https://www.instagram.com/cyb3rsec_ai) · [Twitter](https://x.com/Iqra_Ghafoor_)
 
 ## Progress
 
