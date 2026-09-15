@@ -22,8 +22,8 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 
 | Day | Topic | Code |
 |-----|-------|------|
-| 01 | Variables and their types | |
-| 02 | Operators and Control flow Statements |  |
+| 01 | Variables and their types | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/01_variable_types.ipynb |
+| 02 | Operators and Control flow Statements | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/02_operators_and_control_flow_statements.ipynb |
 | 03 |
 
 
