@@ -24,7 +24,9 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 |-----|-------|------|
 | 01 | Variables and their types | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/01_variable_types.ipynb |
 | 02 | Operators and Control flow Statements | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/02_operators_and_control_flow_statements.ipynb |
-| 03 |
+| 03 | Sequences_Indexing_and_Slicing | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/03_sequences_indexing_slicing.ipynb |
+| 04 | for loop | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/04_for_loop.ipynb |
+| 05 | while loop | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/05_while_loop.ipynb |
 
 
 ## Folders
