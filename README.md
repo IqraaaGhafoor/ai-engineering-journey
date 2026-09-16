@@ -30,6 +30,7 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 | 06 | Nested loops | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/06_nested_loops.ipynb |
 | 07 | strings | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/07_strings.ipynb |
 | 08 | lists | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/08_lists.ipynb |
+| 09 | Tuples and Sets | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/09_tuples_and_sets.ipynb |
 
 
 ## Folders
