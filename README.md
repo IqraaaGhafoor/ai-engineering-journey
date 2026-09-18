@@ -32,6 +32,7 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 | 08 | lists | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/08_lists.ipynb |
 | 09 | Tuples and Sets | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/09_tuples_and_sets.ipynb |
 | 10 | Dictionaries | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/10_dictionaries.ipynb |
+| 11 | Functions part 1 | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/11_functions_part_1.ipynb |
 
 
 ## Folders
