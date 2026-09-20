@@ -8,7 +8,7 @@ day of it here.
 Some days it's a small script. Some days it's two hours stuck on one bug
 and a long notes file. Both go in.
 
-**Roadmap:** Python → Mathematics → Machine Learning → Deep Learning → NLP → GenAI & LLMs → ...
+**Roadmap:** Python → Machine Learning → Deep Learning → NLP → GenAI & LLMs → ...
 
 There's a specific end goal I'm working toward. I'll name it when I get closer.
 
