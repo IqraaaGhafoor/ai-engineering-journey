@@ -34,6 +34,7 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 | 10 | Dictionaries | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/10_dictionaries.ipynb |
 | 11 | Functions part 1 | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/11_functions_part_1.ipynb |
 | 12 | Function final part | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/12_functions_part%20_2_final.ipynb |
+| 13 | Errors and Exceptions | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/13_Errors_and_Exceptions.ipynb |
 
 ## Folders
 
