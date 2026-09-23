@@ -36,6 +36,7 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 | 12 | Function final part | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/12_functions_part%20_2_final.ipynb |
 | 13 | Errors and Exceptions | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/13_Errors_and_Exceptions.ipynb |
 | 14 | File Handling | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/14_file_handling.ipynb |
+| 15 | Module and Code Structure | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/15_modules_and_code_structure.ipynb |
 
 ## Folders
 
