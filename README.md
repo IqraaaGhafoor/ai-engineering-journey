@@ -38,6 +38,7 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 | 14 | File Handling | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/14_file_handling.ipynb |
 | 15 | Module and Code Structure | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/15_modules_and_code_structure.ipynb |
 | 16 | OOP part 1 | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/16_oop_part_1.ipynb |
+| 17 | OOP part 2 | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/17_oop_part_2.ipynb |
 
 ## Folders
 
