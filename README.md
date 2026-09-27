@@ -40,6 +40,7 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
 | 16 | OOP part 1 | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/16_oop_part_1.ipynb |
 | 17 | OOP part 2 | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/17_oop_part_2.ipynb |
 | 18 | OOP final | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/18_oop_final_part.ipynb |
+| 19 | Project | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/19_project.ipynb |
 
 ## Folders
 
