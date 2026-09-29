@@ -8,13 +8,11 @@ day of it here.
 Some days it's a small script. Some days it's two hours stuck on one bug
 and a long notes file. Both go in.
 
-**Roadmap:** Python → Machine Learning → Deep Learning → NLP → GenAI & LLMs → ...
-
-There's a specific end goal I'm working toward. I'll name it when I get closer.
+**Roadmap:** Python → Machine Learning → Deep Learning → NLP → LLMs → AI Security Engineering
 
 **Started:** [31 August 2026]
 
-**Currently on:** Python
+**Currently on:** Phase 1 (Python & Security Fundamentals)
 
 **Also posting this on:** [Instagram](https://www.instagram.com/cyb3rsec_ai) · [Twitter](https://x.com/Iqra_Ghafoor_)
 
@@ -48,6 +46,6 @@ There's a specific end goal I'm working toward. I'll name it when I get closer.
     01-python/       Syntax, data structures, OOP, file handling, numpy, pandas
     02-ml/           scikit-learn and the classic algorithms
     03-dl/           Neural networks, PyTorch
-    04-nlp/          Natural language processing
-    05-genai-llm/    Generative AI and LLMs
-    ...              more coming
+    04-nlp/          Modern text classification, embeddings, vector databases, and NLI models
+    05-llms/         Architecture, fine-tuning, and retrieval-augmented generation
+    06-ai-security/  Prompt injection, red teaming, and evaluating agent defenses
