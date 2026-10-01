@@ -10,8 +10,6 @@ and a long notes file. Both go in.
 
 **Roadmap:** Python → Machine Learning → Deep Learning → NLP → LLMs → AI Security Engineering
 
-**Started:** [31 August 2026]
-
 **Currently on:** Phase 1 (Python & Security Fundamentals)
 
 **Also posting this on:** [Instagram](https://www.instagram.com/cyb3rsec_ai) · [Twitter](https://x.com/Iqra_Ghafoor_)
