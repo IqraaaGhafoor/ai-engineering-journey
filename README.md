@@ -38,6 +38,7 @@ and a long notes file. Both go in.
 | 18 | OOP final | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/18_oop_final_part.ipynb |
 | 19 | Project | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/19_project.ipynb |
 | 20 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/01_numpy%20_part_1.ipynb |
+| 21 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/02_numpy_part_2.ipynb |
 
 ## Folders
 
