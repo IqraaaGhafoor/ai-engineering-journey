@@ -40,6 +40,7 @@ and a long notes file. Both go in.
 | 20 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/01_numpy%20_part_1.ipynb |
 | 21 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/02_numpy_part_2.ipynb |
 | 22 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/03_numpy.ipynb |
+| 23 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/04_numpy.ipynb |
 
 ## Folders
 
