@@ -1,12 +1,8 @@
 # AI Engineering Journey (180 Days)
 
-I'm doing an MS in data science. The coursework gives you the theory, but
-I wanted to actually build things, so I gave myself 180 days to go from
-Python fundamentals through to working with LLMs, and I'm logging every
-day of it here.
+I'm doing an MS in data science. The coursework gives you the theory, but I wanted to actually build things, so I gave myself 180 days to go from Python fundamentals through to working with LLMs, and I'm documenting the work here as I go.
 
-Some days it's a small script. Some days it's two hours stuck on one bug
-and a long notes file. Both go in.
+Some days it's a small script. Some days it's two hours stuck on one bug and a long notes file. Both go in.
 
 **Roadmap:** Python → Machine Learning → Deep Learning → NLP → LLMs 
 
