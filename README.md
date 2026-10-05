@@ -40,8 +40,8 @@ Some days it's a small script. Some days it's two hours stuck on one bug and a l
 
 ## Folders
 
-    python/   Syntax, data structures, OOP, file handling, numpy, pandas
+    python/   Syntax, data structures, OOP, file handling, NumPy, pandas
     ml/       (coming) scikit-learn and the classic algorithms
     dl/       (coming) Neural networks, PyTorch
     nlp/      (coming) Modern text classification, embeddings, vector databases, and NLI models
-    llms/     (coming) Architecture, fine-tuning, and retrieval-augmented generation
+    llms/     (coming) Architecture, fine-tuning, RAG, evaluation, agents, and deployment
