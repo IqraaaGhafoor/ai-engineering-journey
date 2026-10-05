@@ -1,14 +1,13 @@
 # AI Engineering Journey (180 Days)
 
-I'm doing an MS in data science. The coursework gives you the theory, but I wanted to actually build things, so I gave myself 180 days to go from Python fundamentals through to working with LLMs, and I'm documenting the work here as I go.
+180 days from Python fundamentals to working with LLMs, built and documented as I go.
 
-Some days it's a small script. Some days it's two hours stuck on one bug and a long notes file. Both go in.
-
-**Roadmap:** Python → Machine Learning → Deep Learning → NLP → LLMs 
-
-**Currently on:** Phase 1 (Python)
-
-**Also posting this on:** [Twitter](https://x.com/Iqra_Ghafoor_)
+## Roadmap
+- [ ] **Phase 1 – [Python]** (in progress) · syntax, data structures, OOP, file handling, NumPy, pandas
+- [ ] **Phase 2 – Machine Learning** · scikit-learn and the classic algorithms
+- [ ] **Phase 3 – Deep Learning** · neural networks, PyTorch
+- [ ] **Phase 4 – NLP** · modern text classification, embeddings, vector databases, NLI models
+- [ ] **Phase 5 – LLMs** · architecture, fine-tuning, RAG, evaluation, agents, deployment
 
 ## Progress
 
@@ -38,10 +37,5 @@ Some days it's a small script. Some days it's two hours stuck on one bug and a l
 | 22 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/03_numpy.ipynb |
 | 23 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/04_numpy.ipynb |
 
-## Folders
-
-    python/   Syntax, data structures, OOP, file handling, NumPy, pandas
-    ml/       (coming) scikit-learn and the classic algorithms
-    dl/       (coming) Neural networks, PyTorch
-    nlp/      (coming) Modern text classification, embeddings, vector databases, and NLI models
-    llms/     (coming) Architecture, fine-tuning, RAG, evaluation, agents, and deployment
+## About me
+I'm Iqra, doing an MS in data science. The coursework gives you the theory, but I wanted to actually build things, so this is where that happens. Some days it's a small script. Some days it's two hours stuck on one bug and a long notes file. Both go in. I'm also posting this journey on [Twitter](https://x.com/Iqra_Ghafoor_).
