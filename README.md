@@ -8,11 +8,11 @@ day of it here.
 Some days it's a small script. Some days it's two hours stuck on one bug
 and a long notes file. Both go in.
 
-**Roadmap:** Python → Machine Learning → Deep Learning → NLP → LLMs → AI Security Engineering
+**Roadmap:** Python → Machine Learning → Deep Learning → NLP → LLMs 
 
-**Currently on:** Phase 1 (Python & Security Fundamentals)
+**Currently on:** Phase 1 (Python)
 
-**Also posting this on:** [Instagram](https://www.instagram.com/cyb3rsec_ai) · [Twitter](https://x.com/Iqra_Ghafoor_)
+**Also posting this on:** [Twitter](https://x.com/Iqra_Ghafoor_)
 
 ## Progress
 
@@ -44,9 +44,8 @@ and a long notes file. Both go in.
 
 ## Folders
 
-    01-python/       Syntax, data structures, OOP, file handling, numpy, pandas
-    02-ml/           scikit-learn and the classic algorithms
-    03-dl/           Neural networks, PyTorch
-    04-nlp/          Modern text classification, embeddings, vector databases, and NLI models
-    05-llms/         Architecture, fine-tuning, and retrieval-augmented generation
-    06-ai-security/  Prompt injection, red teaming, and evaluating agent defenses
+    python/   Syntax, data structures, OOP, file handling, numpy, pandas
+    ml/       (coming) scikit-learn and the classic algorithms
+    dl/       (coming) Neural networks, PyTorch
+    nlp/      (coming) Modern text classification, embeddings, vector databases, and NLI models
+    llms/     (coming) Architecture, fine-tuning, and retrieval-augmented generation
