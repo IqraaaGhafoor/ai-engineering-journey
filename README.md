@@ -3,7 +3,7 @@
 180 days from Python fundamentals to working with LLMs, built and documented as I go.
 
 ## Roadmap
-- [ ] **Phase 1 – [Python]** (in progress) · syntax, data structures, OOP, file handling, NumPy, pandas
+- [ ] **Phase 1 – Python** (in progress) · syntax, data structures, OOP, file handling, NumPy, pandas
 - [ ] **Phase 2 – Machine Learning** · scikit-learn and the classic algorithms
 - [ ] **Phase 3 – Deep Learning** · neural networks, PyTorch
 - [ ] **Phase 4 – NLP** · modern text classification, embeddings, vector databases, NLI models
