@@ -37,6 +37,7 @@
 | 22 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/03_numpy.ipynb |
 | 23 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/04_numpy.ipynb |
 | 24 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/05_numpy.ipynb |
+| 25 | NumPy | https://github.com/IqraaaGhafoor/ai-engineering-journey/blob/main/python/numpy/06_numpy.ipynb |
 
 ## About me
 I'm Iqra, doing an MS in data science. The coursework gives you the theory, but I wanted to actually build things, so this is where that happens. Some days it's a small script. Some days it's two hours stuck on one bug and a long notes file. Both go in. I'm also posting this journey on [Twitter](https://x.com/Iqra_Ghafoor_).
