@@ -44,7 +44,6 @@
 | 29 |
 | 30 |
 | 31 |
-| 32 |
 
 ## About me
 I'm Iqra, doing an MS in data science. The coursework gives you the theory, but I wanted to actually build things, so this is where that happens. Some days it's a small script. Some days it's two hours stuck on one bug and a long notes file. Both go in. I'm also posting this journey on [Twitter](https://x.com/Iqra_Ghafoor_).
